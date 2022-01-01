@@ -40,5 +40,4 @@ function removeLastCat() {
 
 function removeFirstCat() {
      var newArray1 = cats.slice(1);
-    
      return newArray1 }     
